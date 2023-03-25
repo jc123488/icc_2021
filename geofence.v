@@ -16,6 +16,8 @@ parameter IDLE      = 2'd0,
           INSIDE    = 2'd2,
           OUT       = 2'd3;
 
+123787998
+
 reg [9:0]  X_data [0:5];
 reg [9:0]  Y_data [0:5];
 reg [10:0] R_data [0:5];
