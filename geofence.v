@@ -23,7 +23,7 @@ reg [9:0]  Y_data [0:5];
 reg [10:0] R_data [0:5];
 
 reg [2:0] sort_result [0:4];
-
+66666
 
 always @(posedge clk or posedge reset) begin
     if(reset)
